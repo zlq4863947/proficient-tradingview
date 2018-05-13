@@ -11,7 +11,7 @@
 
 ## 课程项目地址
 
-* 仓库：[https://github.com/zlq4863947/tradingViewWikiCn](https://github.com/zlq4863947/tradingViewWikiCn)
+* 仓库：[https://github.com/zlq4863947/proficient-tradingview](https://github.com/zlq4863947/proficient-tradingview)
 * 在线阅读：[https://b.aitrade.ga/books/proficient-tradingview](https://b.aitrade.ga/books/proficient-tradingview)
 
 ## 课程目录
