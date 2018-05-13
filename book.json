@@ -1,0 +1,31 @@
+{
+  "title": "24小时精通TradingView",
+  "description": "本书为更好的让开发者系统的了解TradingView而制作",
+  "language": "zh",
+  "plugins": [
+    "disqus",
+    "github",
+    "prism",
+    "splitter",
+    "sitemap",
+    "donate"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "aitrade-ga"
+    },
+    "github": {
+      "url": "https://gitee.com/zlq4863947/Proficient24HourTradingView.git"
+    },
+    "donate": {
+      "wechat": "https://zlq4863947.gitbooks.io/tradingview/content/images/weixin.png",
+      "alipay": "https://zlq4863947.gitbooks.io/tradingview/content/images/alipay.png",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    },
+    "sitemap": {
+      "hostname": "http://aitrade.ga"
+    }
+  }
+}
