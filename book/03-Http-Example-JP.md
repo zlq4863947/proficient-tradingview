@@ -59,13 +59,17 @@ GET /config
 
 - 商品解析
 
+```
 GET /symbols?symbol=<symbol>
+```
 
 返回值： JSON包含的对象与SymbolInfo完全一样
 
 - 商品检索
 
+```
 GET /search?query=<query>&type=<type>&exchange=<exchange>&limit=<limit>
+```
 
 | 参数 | 类型 | 说明 |
 |--------|--------|-----------|

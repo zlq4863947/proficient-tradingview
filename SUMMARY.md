@@ -22,6 +22,6 @@
 ## 3、Http请求例子
 
 * [3-1、日本股票图表](book/03-Http-Example-JP.md)
-* [3-2、数字交易所图表](book/03-Http-Example-Coin.md)
+* [3-2、支持多数字货币交易所的图表](book/03-Http-Example-Coin.md)
 
 ---
