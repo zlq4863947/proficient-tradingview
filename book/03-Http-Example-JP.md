@@ -3,6 +3,8 @@
 
 本例子将显示日本东证一部股票数据。
 
+* 视频程序链接：https://gitee.com/proficient-tradingvi/lesson03-udf-jpstock
+
 ### 1、数据准备
 
  - 东证一部股票一览

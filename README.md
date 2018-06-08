@@ -13,9 +13,13 @@
 
 * 仓库：[https://github.com/zlq4863947/proficient-tradingview](https://github.com/zlq4863947/proficient-tradingview)
 * 在线阅读：[https://b.aitrade.ga/books/proficient-tradingview](https://b.aitrade.ga/books/proficient-tradingview)
+* 视频课程链接：[课程目录阅览](PROGRAM-TABLE.md#课程目录)
 
-## 课程目录
-[课程目录阅览](PROGRAM-TABLE.md#课程目录)
+## 中文Wiki
+
+* 仓库：[https://github.com/zlq4863947/tradingViewWikiCn](https://github.com/zlq4863947/tradingViewWikiCn)
+* 在线阅读：[https://zlq4863947.gitbooks.io/tradingview/](https://zlq4863947.gitbooks.io/tradingview/)
+* 在线阅读(国内防墙)：[https://b.aitrade.ga/books/tradingview/](https://b.aitrade.ga/books/tradingview/)
 
 ## 开发交流 QQ 群
 

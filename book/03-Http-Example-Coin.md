@@ -3,6 +3,8 @@
 
 本例子将显示火币与OKCoin的数据。
 
+* 视频程序链接：https://gitee.com/proficient-tradingvi/lesson04-multi-coin-exchange
+
 ## 1、数据准备
 
 ### 火币
