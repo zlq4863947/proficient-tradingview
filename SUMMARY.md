@@ -25,3 +25,11 @@
 * [3-2、支持多数字货币交易所的图表](book/03-Http-Example-Coin.md)
 
 ---
+
+<!--
+## 4、WebSocket请求例子
+
+* [4-1、OKCoinf交易所的WebSocket图表](book/04-WebSocket-Example-Coin.md)
+
+---
+-->
